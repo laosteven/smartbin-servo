@@ -27,4 +27,10 @@ Meant to control the Smartbin. To run, you need to install Arduino IDE and uploa
 
 #### Images
 
+##### Prototype
 
+![Prototpye](https://raw.githubusercontent.com/laosteven/smartbin-servo/master/images/proto.jpg)
+
+##### Electrical Diagram
+
+![Diagram](https://raw.githubusercontent.com/laosteven/smartbin-servo/master/images/diagram.png)
